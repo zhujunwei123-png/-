@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "department": "java",
+      "num": 30
+    },
+    {
+      "department": "c++",
+      "num": 8
+    },
+    {
+      "department": "c#",
+      "num": 6
+    },
+    {
+      "department": "Go",
+      "num": 5
+    },
+    {
+      "department": "javascript",
+      "num": 35
+    },
+    {
+      "department": "HTML",
+      "num": 25
+    },
+    {
+      "department": "css",
+      "num": 20
+    }
+  ]
+}

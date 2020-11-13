@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "department": "MON",
+      "num": 9
+    },
+    {
+      "department": "TUE",
+      "num": 11
+    },
+    {
+      "department": "WED",
+      "num": 13
+    },
+    {
+      "department": "THU",
+      "num": 10
+    },
+    {
+      "department": "FRI",
+      "num": 8
+    },
+    {
+      "department": "SAT",
+      "num": 11
+    },
+    {
+      "department": "SUN",
+      "num": 5
+    }
+  ]
+}
