@@ -1,0 +1,4 @@
+下载node.js
+下载好之后,在终端启动node fwq.js
+网站:
+http://localhost:9999/
